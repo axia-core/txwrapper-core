@@ -11,14 +11,14 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.knownChainProperties = exports.getRegistry = exports.methods = void 0;
-const txwrapper_axia-core_1 = require("@axia-core/txwrapper-axia-core");
+const txwrapper_axia_core_1 = require("@axia-core/txwrapper-axia-core");
 // Export methods of pallets included in your chain's runtime.
 // Note: you may also want to create methods for pallets specifc to your chain. In that case
 // consult the CHAIN_BUILDER.md guide.
 exports.methods = {
-    balances: txwrapper_axia-core_1.methods.balances,
-    utility: txwrapper_axia-core_1.methods.utility,
-    proxy: txwrapper_axia-core_1.methods.proxy,
+    balances: txwrapper_axia_core_1.methods.balances,
+    utility: txwrapper_axia_core_1.methods.utility,
+    proxy: txwrapper_axia_core_1.methods.proxy,
 };
 // Rexport all of txwrapper-core so users have access to utilities, construct functions,
 // decode function, and types.

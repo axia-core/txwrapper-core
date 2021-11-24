@@ -1,6 +1,6 @@
 **[@axia-core/txwrapper-core](../README.md)**
 
-> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/rejectAnnouncement"](../modules/_txwrapper_axia-core_src_methods_proxy_rejectannouncement_.md) / ProxyRejectAnnouncementArgs
+> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/rejectAnnouncement"](../modules/_txwrapper_axia_core_src_methods_proxy_rejectannouncement_.md) / ProxyRejectAnnouncementArgs
 
 # Interface: ProxyRejectAnnouncementArgs
 
@@ -14,8 +14,8 @@
 
 ### Properties
 
-* [callHash](_txwrapper_axia-core_src_methods_proxy_rejectannouncement_.proxyrejectannouncementargs.md#callhash)
-* [delegate](_txwrapper_axia-core_src_methods_proxy_rejectannouncement_.proxyrejectannouncementargs.md#delegate)
+* [callHash](_txwrapper_axia_core_src_methods_proxy_rejectannouncement_.proxyrejectannouncementargs.md#callhash)
+* [delegate](_txwrapper_axia_core_src_methods_proxy_rejectannouncement_.proxyrejectannouncementargs.md#delegate)
 
 ## Properties
 

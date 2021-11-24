@@ -24,25 +24,25 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getRegistry = exports.methods = void 0;
 const txwrapper_core_1 = require("@axia-core/txwrapper-core");
-const txwrapper_axia-core_1 = require("@axia-core/txwrapper-axia-core");
+const txwrapper_axia_core_1 = require("@axia-core/txwrapper-axia-core");
 const axiaMethods = __importStar(require("./methods"));
 // Export methods of pallets included in the AXIA, Kusama, Westend, Rococo
 // and State{mint, mine} runtimes.
 // Note: in the future this may also include methods defined within this package
 // that do not exist in Substrate.
 exports.methods = {
-    balances: txwrapper_axia-core_1.methods.balances,
-    utility: txwrapper_axia-core_1.methods.utility,
-    proxy: txwrapper_axia-core_1.methods.proxy,
-    democracy: txwrapper_axia-core_1.methods.democracy,
-    session: txwrapper_axia-core_1.methods.session,
-    staking: txwrapper_axia-core_1.methods.staking,
-    system: txwrapper_axia-core_1.methods.system,
-    vesting: txwrapper_axia-core_1.methods.vesting,
-    multisig: txwrapper_axia-core_1.methods.multisig,
+    balances: txwrapper_axia_core_1.methods.balances,
+    utility: txwrapper_axia_core_1.methods.utility,
+    proxy: txwrapper_axia_core_1.methods.proxy,
+    democracy: txwrapper_axia_core_1.methods.democracy,
+    session: txwrapper_axia_core_1.methods.session,
+    staking: txwrapper_axia_core_1.methods.staking,
+    system: txwrapper_axia_core_1.methods.system,
+    vesting: txwrapper_axia_core_1.methods.vesting,
+    multisig: txwrapper_axia_core_1.methods.multisig,
     crowdloan: axiaMethods.crowdloan,
     // assets is only applicable to State{mint, mine}
-    assets: txwrapper_axia-core_1.methods.assets,
+    assets: txwrapper_axia_core_1.methods.assets,
 };
 // Re-export all of txwrapper-core so users have access to utilities, construct functions,
 // decode function, and types.

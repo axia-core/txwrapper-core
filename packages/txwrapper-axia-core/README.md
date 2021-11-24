@@ -24,13 +24,13 @@ yarn add @axia-core/txwrapper-axia-core
 In a JS/TS index file of package:
 
 ```typescript
-import { methods as axia-coreMethods } from '@axia-core/txwrapper-axia-core';
+import { methods as axia_coreMethods } from '@axia-core/txwrapper-axia-core';
 
 // Export methods of axia-core pallets included in the chain's runtime.
 export const methods = {
-    balances: axia-coreMethods.balances,
-    utility: axia-coreMethods.utility,
-    proxy: axia-coreMethods.proxy,
+    balances: axia_coreMethods.balances,
+    utility: axia_coreMethods.utility,
+    proxy: axia_coreMethods.proxy,
   };
 ```
 

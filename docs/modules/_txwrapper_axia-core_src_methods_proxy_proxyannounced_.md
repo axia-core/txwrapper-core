@@ -8,17 +8,17 @@
 
 ### Interfaces
 
-* [ProxyProxyAnnouncedArgs](../interfaces/_txwrapper_axia-core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md)
+* [ProxyProxyAnnouncedArgs](../interfaces/_txwrapper_axia_core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md)
 
 ### Functions
 
-* [proxyAnnounced](_txwrapper_axia-core_src_methods_proxy_proxyannounced_.md#proxyannounced)
+* [proxyAnnounced](_txwrapper_axia_core_src_methods_proxy_proxyannounced_.md#proxyannounced)
 
 ## Functions
 
 ### proxyAnnounced
 
-▸ **proxyAnnounced**(`args`: [ProxyProxyAnnouncedArgs](../interfaces/_txwrapper_axia-core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md), `info`: [BaseTxInfo](../interfaces/_txwrapper_core_src_types_method_.basetxinfo.md), `options`: [OptionsWithMeta](../interfaces/_txwrapper_core_src_types_method_.optionswithmeta.md)): [UnsignedTransaction](../interfaces/_txwrapper_core_src_types_method_.unsignedtransaction.md)
+▸ **proxyAnnounced**(`args`: [ProxyProxyAnnouncedArgs](../interfaces/_txwrapper_axia_core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md), `info`: [BaseTxInfo](../interfaces/_txwrapper_core_src_types_method_.basetxinfo.md), `options`: [OptionsWithMeta](../interfaces/_txwrapper_core_src_types_method_.optionswithmeta.md)): [UnsignedTransaction](../interfaces/_txwrapper_core_src_types_method_.unsignedtransaction.md)
 
 *Defined in [packages/txwrapper-axia-core/src/methods/proxy/proxyAnnounced.ts:41](https://github.com/axia-core/txwrapper-core/blob/731a943/packages/txwrapper-axia-core/src/methods/proxy/proxyAnnounced.ts#L41)*
 
@@ -33,7 +33,7 @@ The dispatch origin for this call must be _Signed_.
 
 Name | Type | Description |
 ------ | ------ | ------ |
-`args` | [ProxyProxyAnnouncedArgs](../interfaces/_txwrapper_axia-core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md) |  |
+`args` | [ProxyProxyAnnouncedArgs](../interfaces/_txwrapper_axia_core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md) |  |
 `info` | [BaseTxInfo](../interfaces/_txwrapper_core_src_types_method_.basetxinfo.md) |  |
 `options` | [OptionsWithMeta](../interfaces/_txwrapper_core_src_types_method_.optionswithmeta.md) |   |
 

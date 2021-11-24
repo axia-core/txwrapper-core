@@ -1,6 +1,6 @@
 **[@axia-core/txwrapper-core](../README.md)**
 
-> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/utility/batch"](../modules/_txwrapper_axia-core_src_methods_utility_batch_.md) / UtilityBatch
+> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/utility/batch"](../modules/_txwrapper_axia_core_src_methods_utility_batch_.md) / UtilityBatch
 
 # Interface: UtilityBatch
 
@@ -14,7 +14,7 @@
 
 ### Properties
 
-* [calls](_txwrapper_axia-core_src_methods_utility_batch_.utilitybatch.md#calls)
+* [calls](_txwrapper_axia_core_src_methods_utility_batch_.utilitybatch.md#calls)
 
 ## Properties
 

@@ -1,6 +1,6 @@
 **[@axia-core/txwrapper-core](../README.md)**
 
-> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/proxyAnnounced"](../modules/_txwrapper_axia-core_src_methods_proxy_proxyannounced_.md) / ProxyProxyAnnouncedArgs
+> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/proxyAnnounced"](../modules/_txwrapper_axia_core_src_methods_proxy_proxyannounced_.md) / ProxyProxyAnnouncedArgs
 
 # Interface: ProxyProxyAnnouncedArgs
 
@@ -14,10 +14,10 @@
 
 ### Properties
 
-* [call](_txwrapper_axia-core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md#call)
-* [delegate](_txwrapper_axia-core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md#delegate)
-* [forceProxyType](_txwrapper_axia-core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md#forceproxytype)
-* [real](_txwrapper_axia-core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md#real)
+* [call](_txwrapper_axia_core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md#call)
+* [delegate](_txwrapper_axia_core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md#delegate)
+* [forceProxyType](_txwrapper_axia_core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md#forceproxytype)
+* [real](_txwrapper_axia_core_src_methods_proxy_proxyannounced_.proxyproxyannouncedargs.md#real)
 
 ## Properties
 

@@ -8,17 +8,17 @@
 
 ### Interfaces
 
-* [UtilityAsDerivativeArgs](../interfaces/_txwrapper_axia-core_src_methods_utility_asderivative_.utilityasderivativeargs.md)
+* [UtilityAsDerivativeArgs](../interfaces/_txwrapper_axia_core_src_methods_utility_asderivative_.utilityasderivativeargs.md)
 
 ### Functions
 
-* [asDerivative](_txwrapper_axia-core_src_methods_utility_asderivative_.md#asderivative)
+* [asDerivative](_txwrapper_axia_core_src_methods_utility_asderivative_.md#asderivative)
 
 ## Functions
 
 ### asDerivative
 
-▸ **asDerivative**(`args`: [UtilityAsDerivativeArgs](../interfaces/_txwrapper_axia-core_src_methods_utility_asderivative_.utilityasderivativeargs.md), `info`: [BaseTxInfo](../interfaces/_txwrapper_core_src_types_method_.basetxinfo.md), `options`: [OptionsWithMeta](../interfaces/_txwrapper_core_src_types_method_.optionswithmeta.md)): [UnsignedTransaction](../interfaces/_txwrapper_core_src_types_method_.unsignedtransaction.md)
+▸ **asDerivative**(`args`: [UtilityAsDerivativeArgs](../interfaces/_txwrapper_axia_core_src_methods_utility_asderivative_.utilityasderivativeargs.md), `info`: [BaseTxInfo](../interfaces/_txwrapper_core_src_types_method_.basetxinfo.md), `options`: [OptionsWithMeta](../interfaces/_txwrapper_core_src_types_method_.optionswithmeta.md)): [UnsignedTransaction](../interfaces/_txwrapper_core_src_types_method_.unsignedtransaction.md)
 
 *Defined in [packages/txwrapper-axia-core/src/methods/utility/asDerivative.ts:48](https://github.com/axia-core/txwrapper-core/blob/731a943/packages/txwrapper-axia-core/src/methods/utility/asDerivative.ts#L48)*
 
@@ -47,7 +47,7 @@ The dispatch origin for this call must be _Signed_.
 
 Name | Type | Description |
 ------ | ------ | ------ |
-`args` | [UtilityAsDerivativeArgs](../interfaces/_txwrapper_axia-core_src_methods_utility_asderivative_.utilityasderivativeargs.md) |  |
+`args` | [UtilityAsDerivativeArgs](../interfaces/_txwrapper_axia_core_src_methods_utility_asderivative_.utilityasderivativeargs.md) |  |
 `info` | [BaseTxInfo](../interfaces/_txwrapper_core_src_types_method_.basetxinfo.md) |  |
 `options` | [OptionsWithMeta](../interfaces/_txwrapper_core_src_types_method_.optionswithmeta.md) |   |
 

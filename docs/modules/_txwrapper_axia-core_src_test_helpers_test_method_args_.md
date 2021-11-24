@@ -8,7 +8,7 @@
 
 ### Object literals
 
-* [TEST\_METHOD\_ARGS](_txwrapper_axia-core_src_test_helpers_test_method_args_.md#test_method_args)
+* [TEST\_METHOD\_ARGS](_txwrapper_axia_core_src_test_helpers_test_method_args_.md#test_method_args)
 
 ## Object literals
 

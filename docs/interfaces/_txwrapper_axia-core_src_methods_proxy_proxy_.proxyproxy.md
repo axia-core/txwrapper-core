@@ -1,6 +1,6 @@
 **[@axia-core/txwrapper-core](../README.md)**
 
-> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/proxy"](../modules/_txwrapper_axia-core_src_methods_proxy_proxy_.md) / ProxyProxy
+> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/proxy"](../modules/_txwrapper_axia_core_src_methods_proxy_proxy_.md) / ProxyProxy
 
 # Interface: ProxyProxy
 
@@ -14,9 +14,9 @@
 
 ### Properties
 
-* [call](_txwrapper_axia-core_src_methods_proxy_proxy_.proxyproxy.md#call)
-* [forceProxyType](_txwrapper_axia-core_src_methods_proxy_proxy_.proxyproxy.md#forceproxytype)
-* [real](_txwrapper_axia-core_src_methods_proxy_proxy_.proxyproxy.md#real)
+* [call](_txwrapper_axia_core_src_methods_proxy_proxy_.proxyproxy.md#call)
+* [forceProxyType](_txwrapper_axia_core_src_methods_proxy_proxy_.proxyproxy.md#forceproxytype)
+* [real](_txwrapper_axia_core_src_methods_proxy_proxy_.proxyproxy.md#real)
 
 ## Properties
 

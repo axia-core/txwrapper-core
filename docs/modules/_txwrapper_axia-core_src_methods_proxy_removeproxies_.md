@@ -8,7 +8,7 @@
 
 ### Functions
 
-* [removeProxies](_txwrapper_axia-core_src_methods_proxy_removeproxies_.md#removeproxies)
+* [removeProxies](_txwrapper_axia_core_src_methods_proxy_removeproxies_.md#removeproxies)
 
 ## Functions
 

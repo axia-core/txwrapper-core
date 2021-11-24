@@ -5,7 +5,7 @@ import {
 	AXIASS58Format,
 	TypeRegistry,
 } from '@axia-core/txwrapper-core';
-import { methods as axia-coreMethods } from '@axia-core/txwrapper-axia-core';
+import { methods as axia_coreMethods } from '@axia-core/txwrapper-axia-core';
 
 import * as axiaMethods from './methods';
 
@@ -14,18 +14,18 @@ import * as axiaMethods from './methods';
 // Note: in the future this may also include methods defined within this package
 // that do not exist in Substrate.
 export const methods = {
-	balances: axia-coreMethods.balances,
-	utility: axia-coreMethods.utility,
-	proxy: axia-coreMethods.proxy,
-	democracy: axia-coreMethods.democracy,
-	session: axia-coreMethods.session,
-	staking: axia-coreMethods.staking,
-	system: axia-coreMethods.system,
-	vesting: axia-coreMethods.vesting,
-	multisig: axia-coreMethods.multisig,
+	balances: axia_coreMethods.balances,
+	utility: axia_coreMethods.utility,
+	proxy: axia_coreMethods.proxy,
+	democracy: axia_coreMethods.democracy,
+	session: axia_coreMethods.session,
+	staking: axia_coreMethods.staking,
+	system: axia_coreMethods.system,
+	vesting: axia_coreMethods.vesting,
+	multisig: axia_coreMethods.multisig,
 	crowdloan: axiaMethods.crowdloan,
 	// assets is only applicable to State{mint, mine}
-	assets: axia-coreMethods.assets,
+	assets: axia_coreMethods.assets,
 };
 
 // Re-export all of txwrapper-core so users have access to utilities, construct functions,

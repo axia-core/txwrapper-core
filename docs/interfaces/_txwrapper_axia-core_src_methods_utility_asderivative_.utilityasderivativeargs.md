@@ -1,6 +1,6 @@
 **[@axia-core/txwrapper-core](../README.md)**
 
-> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/utility/asDerivative"](../modules/_txwrapper_axia-core_src_methods_utility_asderivative_.md) / UtilityAsDerivativeArgs
+> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/utility/asDerivative"](../modules/_txwrapper_axia_core_src_methods_utility_asderivative_.md) / UtilityAsDerivativeArgs
 
 # Interface: UtilityAsDerivativeArgs
 
@@ -14,8 +14,8 @@
 
 ### Properties
 
-* [call](_txwrapper_axia-core_src_methods_utility_asderivative_.utilityasderivativeargs.md#call)
-* [index](_txwrapper_axia-core_src_methods_utility_asderivative_.utilityasderivativeargs.md#index)
+* [call](_txwrapper_axia_core_src_methods_utility_asderivative_.utilityasderivativeargs.md#call)
+* [index](_txwrapper_axia_core_src_methods_utility_asderivative_.utilityasderivativeargs.md#index)
 
 ## Properties
 

@@ -1,6 +1,6 @@
 **[@axia-core/txwrapper-core](../README.md)**
 
-> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/balances/transfer"](../modules/_txwrapper_axia-core_src_methods_balances_transfer_.md) / BalancesTransferArgs
+> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/balances/transfer"](../modules/_txwrapper_axia_core_src_methods_balances_transfer_.md) / BalancesTransferArgs
 
 # Interface: BalancesTransferArgs
 
@@ -14,8 +14,8 @@
 
 ### Properties
 
-* [dest](_txwrapper_axia-core_src_methods_balances_transfer_.balancestransferargs.md#dest)
-* [value](_txwrapper_axia-core_src_methods_balances_transfer_.balancestransferargs.md#value)
+* [dest](_txwrapper_axia_core_src_methods_balances_transfer_.balancestransferargs.md#dest)
+* [value](_txwrapper_axia_core_src_methods_balances_transfer_.balancestransferargs.md#value)
 
 ## Properties
 

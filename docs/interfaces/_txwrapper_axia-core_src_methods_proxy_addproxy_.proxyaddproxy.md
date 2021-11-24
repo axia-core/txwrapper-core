@@ -1,6 +1,6 @@
 **[@axia-core/txwrapper-core](../README.md)**
 
-> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/addProxy"](../modules/_txwrapper_axia-core_src_methods_proxy_addproxy_.md) / ProxyAddProxy
+> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/addProxy"](../modules/_txwrapper_axia_core_src_methods_proxy_addproxy_.md) / ProxyAddProxy
 
 # Interface: ProxyAddProxy
 
@@ -14,9 +14,9 @@
 
 ### Properties
 
-* [delay](_txwrapper_axia-core_src_methods_proxy_addproxy_.proxyaddproxy.md#delay)
-* [delegate](_txwrapper_axia-core_src_methods_proxy_addproxy_.proxyaddproxy.md#delegate)
-* [proxyType](_txwrapper_axia-core_src_methods_proxy_addproxy_.proxyaddproxy.md#proxytype)
+* [delay](_txwrapper_axia_core_src_methods_proxy_addproxy_.proxyaddproxy.md#delay)
+* [delegate](_txwrapper_axia_core_src_methods_proxy_addproxy_.proxyaddproxy.md#delegate)
+* [proxyType](_txwrapper_axia_core_src_methods_proxy_addproxy_.proxyaddproxy.md#proxytype)
 
 ## Properties
 

@@ -1,6 +1,6 @@
 **[@axia-core/txwrapper-core](../README.md)**
 
-> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/announce"](../modules/_txwrapper_axia-core_src_methods_proxy_announce_.md) / ProxyAnnounceArgs
+> [Globals](../globals.md) / ["txwrapper-axia-core/src/methods/proxy/announce"](../modules/_txwrapper_axia_core_src_methods_proxy_announce_.md) / ProxyAnnounceArgs
 
 # Interface: ProxyAnnounceArgs
 
@@ -14,8 +14,8 @@
 
 ### Properties
 
-* [callHash](_txwrapper_axia-core_src_methods_proxy_announce_.proxyannounceargs.md#callhash)
-* [real](_txwrapper_axia-core_src_methods_proxy_announce_.proxyannounceargs.md#real)
+* [callHash](_txwrapper_axia_core_src_methods_proxy_announce_.proxyannounceargs.md#callhash)
+* [real](_txwrapper_axia_core_src_methods_proxy_announce_.proxyannounceargs.md#real)
 
 ## Properties
 
