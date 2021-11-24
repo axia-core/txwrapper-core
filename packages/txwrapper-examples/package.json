@@ -1,0 +1,26 @@
+{
+  "name": "@axia-core/txwrapper-examples",
+  "version": "0.1.0",
+  "author": "Sankar boro <sankar.boro@zeeve.io>",
+  "description": "Examples for txwrapper-* usage.",
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "private": true,
+  "repository": "https://github.com/axia-core/txwrapper-core",
+  "bugs": "https://github.com/axia-core/txwrapper-core/issues",
+  "homepage": "https://github.com/axia-core/txwrapper-core/tree/master/packages/txwrapper-examples#readme",
+  "engine": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "build": "yarn build:workspace",
+    "axia": "node lib/axia",
+    "axiaBatchAll": "node lib/axiaBatchAll",
+    "mandala": "node lib/mandala"
+  },
+  "dependencies": {
+    "@axia-js/api": "^6.9.2",
+    "@axia-core/txwrapper-axia": "^1.2.21",
+    "@axia-core/txwrapper-registry": "0.1.0"
+  }
+}

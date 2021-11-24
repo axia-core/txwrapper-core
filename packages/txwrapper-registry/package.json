@@ -1,0 +1,28 @@
+{
+  "name": "@axia-core/txwrapper-registry",
+  "version": "0.1.0",
+  "author": "Sankar boro <sankar.boro@zeeve.io>",
+  "description": "AXIA-js type registry creation assistants for txwrapper libraries.",
+  "files": [
+    "lib"
+  ],
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/axia-core/txwrapper-core",
+  "bugs": "https://github.com/axia-core/txwrapper-core/issues",
+  "homepage": "https://github.com/axia-core/txwrapper-core/tree/master/packages/txwrapper-registry#readme",
+  "engine": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "build": "yarn build:workspace"
+  },
+  "dependencies": {
+    "@axia-js/apps-config": "0.1.0",
+    "@axia-js/networks": "0.1.0",
+    "@axia-core/txwrapper-core": "0.1.0"
+  }
+}

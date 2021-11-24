@@ -1,0 +1,7 @@
+**/*node_modules
+.DS_Store
+**/*yarn-error.log
+**/**.d.ts
+**/**.js.map
+.yarn/*
+!.yarn/releases

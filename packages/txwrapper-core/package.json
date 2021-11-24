@@ -1,0 +1,30 @@
+{
+  "name": "@axia-core/txwrapper-core",
+  "version": "0.1.0",
+  "author": "Sankar boro <sankar.boro@zeeve.io>",
+  "description": "Core components for creating a txwrapper lib.",
+  "files": [
+    "lib"
+  ],
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/axia-core/txwrapper-core",
+  "bugs": "https://github.com/axia-core/txwrapper-core/issues",
+  "homepage": "https://github.com/axia-core/txwrapper-core/tree/master/packages/txwrapper-core#readme",
+  "engine": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "build": "yarn build:workspace"
+  },
+  "dependencies": {
+    "@axia-js/api": "^6.9.2",
+    "memoizee": "0.4.15"
+  },
+  "devDependencies": {
+    "@types/memoizee": "^0.4.3"
+  }
+}

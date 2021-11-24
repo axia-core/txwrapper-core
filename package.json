@@ -1,0 +1,39 @@
+{
+  "name": "txwrapper-core",
+  "repository": "https://github.com/axia-core/txwrapper-core",
+  "author": "Sankar boro <sankar.boro@zeeve.io>",
+  "license": "Apache-2.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "deploy": "yarn run build && lerna version --conventional-commits --create-release github && lerna publish from-package",
+    "build": "lerna run build",
+    "build:workspace": "cd $INIT_CWD && rimraf lib/ && axia-core-exec-tsc -p tsconfig.build.json",
+    "lint": "axia-core-dev-run-lint",
+    "test": "axia-core-exec-jest",
+    "docs": "typedoc"
+  },
+  "resolutions": {
+    "@axia-js/api": "0.1.0",
+    "@axia-js/keyring": "0.1.0",
+    "@axia-js/networks": "0.1.0",
+    "@axia-js/types": "0.1.0",
+    "@axia-js/types-known": "0.1.0",
+    "@axia-js/util": "0.1.0",
+    "@axia-js/util-crypto": "0.1.0",
+    "@axia-js/wasm-crypto": "0.1.0"
+  },
+  "devDependencies": {
+    "@axia-js/util-crypto": "0.1.0",
+    "@axia-core/dev": "0.1.0",
+    "lerna": "^4.0.0",
+    "rimraf": "^3.0.2",
+    "ts-node": "^9.1.1",
+    "tsconfig-paths": "^3.9.0",
+    "typedoc": "^0.20.35",
+    "typedoc-plugin-markdown": "^3.7.1"
+  },
+  "packageManager": "yarn@3.0.1"
+}

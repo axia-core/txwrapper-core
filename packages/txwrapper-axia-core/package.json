@@ -1,0 +1,26 @@
+{
+  "name": "@axia-core/txwrapper-axia-core",
+  "version": "0.1.0",
+  "author": "Sankar boro <sankar.boro@zeeve.io>",
+  "description": "Selected dispatchables of Substrate pallets, to be re-exported by txwrappers.",
+  "files": [
+    "lib"
+  ],
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/axia-core/txwrapper-core",
+  "bugs": "https://github.com/axia-core/txwrapper-core/issues",
+  "homepage": "https://github.com/axia-core/txwrapper-core/tree/master/packages/txwrapper-axia-core#readme",
+  "engine": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "build": "yarn build:workspace"
+  },
+  "dependencies": {
+    "@axia-core/txwrapper-core": "0.1.0"
+  }
+}

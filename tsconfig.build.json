@@ -1,0 +1,3 @@
+{
+  "extends": "@axia-core/dev/config/tsconfig.json",
+}
