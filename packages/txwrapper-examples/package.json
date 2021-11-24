@@ -19,7 +19,7 @@
     "mandala": "node lib/mandala"
   },
   "dependencies": {
-    "@axia-js/api": "^6.9.2",
+    "@axia-js/api": "0.1.1",
     "@axia-core/txwrapper-axia": "^1.2.21",
     "@axia-core/txwrapper-registry": "0.1.0"
   }

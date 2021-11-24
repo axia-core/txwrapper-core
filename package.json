@@ -16,17 +16,17 @@
     "docs": "typedoc"
   },
   "resolutions": {
-    "@axia-js/api": "0.1.0",
-    "@axia-js/keyring": "0.1.0",
+    "@axia-js/api": "0.1.1",
+    "@axia-js/keyring": "0.1.2",
     "@axia-js/networks": "0.1.0",
-    "@axia-js/types": "0.1.0",
-    "@axia-js/types-known": "0.1.0",
+    "@axia-js/types": "0.1.1",
+    "@axia-js/types-known": "0.1.1",
     "@axia-js/util": "0.1.0",
-    "@axia-js/util-crypto": "0.1.0",
-    "@axia-js/wasm-crypto": "0.1.0"
+    "@axia-js/util-crypto": "0.1.2",
+    "@axia-js/wasm-crypto": "0.1.2"
   },
   "devDependencies": {
-    "@axia-js/util-crypto": "0.1.0",
+    "@axia-js/util-crypto": "0.1.2",
     "@axia-core/dev": "0.1.0",
     "lerna": "^4.0.0",
     "rimraf": "^3.0.2",

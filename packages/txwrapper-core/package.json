@@ -21,7 +21,7 @@
     "build": "yarn build:workspace"
   },
   "dependencies": {
-    "@axia-js/api": "^6.9.2",
+    "@axia-js/api": "0.1.1",
     "memoizee": "0.4.15"
   },
   "devDependencies": {
