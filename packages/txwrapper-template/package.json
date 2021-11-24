@@ -19,9 +19,9 @@
     "build": "tsc"
   },
   "dependencies": {
+    "@axia-core/txwrapper-axia-core": "0.1.0",
     "@axia-core/txwrapper-core": "0.1.0",
-    "@axia-core/txwrapper-registry": "0.1.0",
-    "@axia-core/txwrapper-axia-core": "0.1.0"
+    "@axia-core/txwrapper-registry": "0.1.0"
   },
   "devDependencies": {
     "ts-node": "9.1.1",

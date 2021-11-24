@@ -21,7 +21,7 @@
     "build": "yarn build:workspace"
   },
   "dependencies": {
-    "@axia-core/txwrapper-core": "0.1.0",
-    "@axia-core/txwrapper-axia-core": "0.1.0"
+    "@axia-core/txwrapper-axia-core": "0.1.0",
+    "@axia-core/txwrapper-core": "0.1.0"
   }
 }
