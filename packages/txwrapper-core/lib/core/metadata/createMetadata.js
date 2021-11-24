@@ -4,7 +4,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.createMetadata = void 0;
-const types_1 = require("@axia/types");
+const types_1 = require("@axia-js/types");
 const memoizee_1 = __importDefault(require("memoizee"));
 /**
  * From a metadata hex string (for example returned by RPC), create a Metadata

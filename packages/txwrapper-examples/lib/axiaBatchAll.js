@@ -6,8 +6,8 @@
  * @ignore Don't show this file in documentation.
  */
 Object.defineProperty(exports, "__esModule", { value: true });
-const api_1 = require("@axia/api");
-const util_crypto_1 = require("@axia/util-crypto");
+const api_1 = require("@axia-js/api");
+const util_crypto_1 = require("@axia-js/util-crypto");
 const txwrapper_axia_1 = require("@axia-core/txwrapper-axia");
 const util_1 = require("./util");
 /**

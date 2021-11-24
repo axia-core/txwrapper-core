@@ -1,6 +1,6 @@
 {
   "name": "@axia-core/txwrapper-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "",
   "description": "Helper functions for {chain and test network names} offline transaction generation.",
   "files": [

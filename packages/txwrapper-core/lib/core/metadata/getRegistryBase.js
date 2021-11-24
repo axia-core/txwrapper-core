@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getRegistryBase = void 0;
-const types_1 = require("@axia/types");
+const types_1 = require("@axia-js/types");
 const createMetadata_1 = require("./createMetadata");
 /**
  * Create a type registry given chainProperties, specTypes, and metadataRpc.

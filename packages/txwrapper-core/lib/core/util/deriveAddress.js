@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.deriveAddress = void 0;
-const keyring_1 = require("@axia/keyring");
+const keyring_1 = require("@axia-js/keyring");
 /**
  * Derive an address from a cryptographic public key offline.
  *

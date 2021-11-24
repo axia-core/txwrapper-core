@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.signWithAlice = void 0;
-const api_1 = require("@axia/api");
-const util_crypto_1 = require("@axia/util-crypto");
+const api_1 = require("@axia-js/api");
+const util_crypto_1 = require("@axia-js/util-crypto");
 const constants_1 = require("./constants");
 const getRegistryAXIA_1 = require("./getRegistryAXIA");
 /**

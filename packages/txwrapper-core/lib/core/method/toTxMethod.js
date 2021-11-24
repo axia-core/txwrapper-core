@@ -5,10 +5,10 @@ exports.toTxMethod = void 0;
 /**
  * @ignore
  */ /** */
-const types_1 = require("@axia/types");
-const types_2 = require("@axia/types");
-const AbstractInt_1 = require("@axia/types/codec/AbstractInt");
-const util_1 = require("@axia/util");
+const types_1 = require("@axia-js/types");
+const types_2 = require("@axia-js/types");
+const AbstractInt_1 = require("@axia-js/types/codec/AbstractInt");
+const util_1 = require("@axia-js/util");
 /**
  * From a AXIAJs `Call` type, get a serializable object representing the
  * call. All integers are serialized to base 10 strings in order to be safe.

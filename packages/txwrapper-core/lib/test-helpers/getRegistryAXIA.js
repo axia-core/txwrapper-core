@@ -3,8 +3,8 @@
 // and also for consumption.
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getRegistryAXIA = void 0;
-const types_1 = require("@axia/types");
-const types_known_1 = require("@axia/types-known");
+const types_1 = require("@axia-js/types");
+const types_known_1 = require("@axia-js/types-known");
 const core_1 = require("../core");
 /**
  * Get the AXIA type registry for a given spec version for testing purposes

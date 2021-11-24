@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.importPrivateKey = void 0;
-const keyring_1 = require("@axia/keyring");
-const util_1 = require("@axia/util");
+const keyring_1 = require("@axia-js/keyring");
+const util_1 = require("@axia-js/util");
 // Using an interface above so that KeyringPair shows up in docs
 /**
  * Import a private key and create a KeyringPair.

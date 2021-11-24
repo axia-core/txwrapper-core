@@ -21,7 +21,7 @@ var method_1 = require("./method");
 Object.defineProperty(exports, "defineMethod", { enumerable: true, get: function () { return method_1.defineMethod; } });
 Object.defineProperty(exports, "toTxMethod", { enumerable: true, get: function () { return method_1.toTxMethod; } });
 __exportStar(require("./util"), exports);
-var types_known_1 = require("@axia/types-known");
+var types_known_1 = require("@axia-js/types-known");
 Object.defineProperty(exports, "getSpecTypes", { enumerable: true, get: function () { return types_known_1.getSpecTypes; } });
 /**
  * Functions for each step of the transaction construction process.

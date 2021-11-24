@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getRegistryMandala = void 0;
 const type_definitions_1 = require("@acala-network/type-definitions");
-const types_1 = require("@axia/types");
-const types_known_1 = require("@axia/types-known");
+const types_1 = require("@axia-js/types");
+const types_known_1 = require("@axia-js/types-known");
 const txwrapper_core_1 = require("@axia-core/txwrapper-core");
 /**
  * Mandala registry creator for testing.

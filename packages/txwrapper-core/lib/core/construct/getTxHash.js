@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getTxHash = void 0;
-const util_crypto_1 = require("@axia/util-crypto");
+const util_crypto_1 = require("@axia-js/util-crypto");
 /**
  * Derive the tx hash of a signed transaction offline.
  *

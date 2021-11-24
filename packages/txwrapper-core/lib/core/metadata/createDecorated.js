@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.createDecoratedConstants = exports.createDecoratedTx = void 0;
-const decorate_1 = require("@axia/types/metadata/decorate");
+const decorate_1 = require("@axia-js/types/metadata/decorate");
 const createMetadata_1 = require("./createMetadata");
 /**
  * From a metadata hex string (for example returned by RPC), create decorated

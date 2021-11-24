@@ -4,8 +4,8 @@ exports.defineMethod = void 0;
 /**
  * @ignore
  */ /** */
-const Extrinsic_1 = require("@axia/types/extrinsic/v4/Extrinsic");
-const util_1 = require("@axia/util");
+const Extrinsic_1 = require("@axia-js/types/extrinsic/v4/Extrinsic");
+const util_1 = require("@axia-js/util");
 const metadata_1 = require("../metadata");
 /**
  * Default values for tx info, if the user doesn't specify any

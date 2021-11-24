@@ -1,10 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getRegistry = exports.knownChainProperties = void 0;
-const api_1 = require("@axia/apps-config/api");
-const networks_1 = require("@axia/networks");
-const types_1 = require("@axia/types");
-const types_known_1 = require("@axia/types-known");
+const api_1 = require("@axia-js/apps-config/api");
+const networks_1 = require("@axia-js/networks");
+const types_1 = require("@axia-js/types");
+const types_known_1 = require("@axia-js/types-known");
 const txwrapper_core_1 = require("@axia-core/txwrapper-core");
 /**
  * Known chain properties based on the axia-core ss58 registry.

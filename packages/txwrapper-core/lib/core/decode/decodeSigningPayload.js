@@ -4,8 +4,8 @@ exports.decodeSigningPayload = void 0;
 /**
  * @ignore
  */ /** */
-const create_1 = require("@axia/types/create");
-const Extrinsic_1 = require("@axia/types/extrinsic/v4/Extrinsic");
+const create_1 = require("@axia-js/types/create");
+const Extrinsic_1 = require("@axia-js/types/extrinsic/v4/Extrinsic");
 const __1 = require("..");
 /**
  * Parse the transaction information from a signing payload.

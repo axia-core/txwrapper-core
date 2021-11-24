@@ -4,7 +4,7 @@
  */ /** */
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.decodeSignedTx = void 0;
-const util_1 = require("@axia/util");
+const util_1 = require("@axia-js/util");
 const __1 = require("..");
 /**
  * Parse the transaction information from a signed transaction offline.
