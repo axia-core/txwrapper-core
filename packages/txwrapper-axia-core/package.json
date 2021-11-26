@@ -1,6 +1,6 @@
 {
   "name": "@axia-core/txwrapper-axia-core",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Sankar boro <sankar.boro@zeeve.io>",
   "description": "Selected dispatchables of Substrate pallets, to be re-exported by txwrappers.",
   "files": [

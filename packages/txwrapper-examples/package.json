@@ -1,6 +1,6 @@
 {
   "name": "@axia-core/txwrapper-examples",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Sankar boro <sankar.boro@zeeve.io>",
   "description": "Examples for txwrapper-* usage.",
   "license": "Apache-2.0",

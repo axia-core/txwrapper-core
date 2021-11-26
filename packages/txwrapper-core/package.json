@@ -1,6 +1,6 @@
 {
   "name": "@axia-core/txwrapper-core",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Sankar boro <sankar.boro@zeeve.io>",
   "description": "Core components for creating a txwrapper lib.",
   "files": [

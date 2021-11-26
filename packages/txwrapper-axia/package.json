@@ -1,6 +1,6 @@
 {
   "name": "@axia-core/txwrapper-axia",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Sankar boro <sankar.boro@zeeve.io>",
   "description": "Helper functions for AXIA, Kusama, Rococo and Westend offline transaction generation.",
   "files": [
