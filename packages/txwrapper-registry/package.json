@@ -1,6 +1,6 @@
 {
   "name": "@axia-core/txwrapper-registry",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Sankar boro <sankar.boro@zeeve.io>",
   "description": "AXIA-js type registry creation assistants for txwrapper libraries.",
   "files": [
@@ -21,7 +21,7 @@
     "build": "yarn build:workspace"
   },
   "dependencies": {
-    "@axia-core/txwrapper-core": "0.1.0",
+    "@axia-core/txwrapper-core": "0.1.3",
     "@axia-js/apps-config": "0.1.0",
     "@axia-js/networks": "0.1.0"
   }

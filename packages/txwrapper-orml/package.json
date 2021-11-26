@@ -1,6 +1,6 @@
 {
   "name": "@axia-core/txwrapper-orml",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Sankar boro <sankar.boro@zeeve.io>",
   "description": "Selected dispatchables of ORML pallets, to be re-exported by txwrappers.",
   "files": [
@@ -21,7 +21,7 @@
     "build": "yarn build:workspace"
   },
   "dependencies": {
-    "@axia-core/txwrapper-core": "0.1.0"
+    "@axia-core/txwrapper-core": "0.1.3"
   },
   "devDependencies": {
     "@acala-network/type-definitions": "^0.7.4-1"
